@@ -12,7 +12,6 @@ This is my personal portfolio website, designed to showcase my skills, projects,
 ## Technologies Used
 - **HTML5**: Structure and content.
 - **CSS**: Styling and layout.
-- **JavaScript**: Interactive elements and dynamic features.
 
 ## How to View
 1. Clone the repository:
